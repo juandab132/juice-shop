@@ -5,4 +5,4 @@ services:
       - app
   app:
     image: bkimminich/juice-shop:latest
-    build: ./
+    build: 
